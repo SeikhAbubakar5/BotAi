@@ -1,0 +1,57 @@
+.leftBar{
+    position: absolute;
+    width: 210px;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 210px;
+    height: 47px;
+    border: none;
+    background-color: #D7C7F4;
+    cursor: pointer;
+    text-decoration: none;
+}
+.text{
+    display: flex;
+    text-align:left;
+    gap: 10px;
+    position: relative;
+
+}
+.text img{
+    width: 33.58px;
+    height: 32px;
+    position: relative;
+    top: 16px;
+}
+.text p{
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    text-decoration: none;
+}
+.btn button{
+    width: 175.16px;
+    position: absolute;
+    height: 39px;
+    top: 84px;
+    left: 16.42px;
+    border-radius: 10px;
+    border:none;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.38px;
+    text-align: center;
+    background-color: #D7C7F4;
+    cursor: pointer;
+}

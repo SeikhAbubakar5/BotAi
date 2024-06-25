@@ -1,0 +1,13 @@
+.navbar{
+    position: relative;
+    left: 20px;
+}
+.navbar p{
+    font-family: Ubuntu;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32.17px;
+    text-align: left;
+    color: #9785BA;
+
+}
